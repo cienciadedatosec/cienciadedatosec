@@ -25,7 +25,7 @@ Soy Economista apasionado por los datos y la inteligencia artificial, con experi
 ## 🎓 Educación & Certificaciones
 📖 **Economista con especialización en Business Intelligence**  
 📜 **Certificación en IT Specialist - Data Analytics**  
-🏆 **Cursos en Machine Learning y Growth Marketing**  
+🏆 **Cursos en Machine Learning y Growth Marketing** Cambio 
 
 ## 🌍 ¡Conectemos!
 📩 [LinkedIn](https://www.linkedin.com/in/andervcy/) | 📧 [Email](anderbladimir@gmail.com) | 🌐 [Proyecto](https://cienciadedatosec.com/)
